@@ -95,7 +95,7 @@ Tooling that maps candidates to the most relevant teams or functions using struc
 
 - Portfolio: [mikebatmancohen.pplx.app](https://mikebatmancohen.pplx.app)
 - GitHub: [github.com/BatmanRecruiter](https://github.com/BatmanRecruiter)
-- LinkedIn: add your real profile URL here
+- LinkedIn: [linkedin.com/in/BatmanRecruiter](https://linkedin.com/in/BatmanRecruiter)
 
 ---
 
