@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/BatmanRecruiter?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-black?style=for-the-badge&logo=github" alt="GitHub Projects" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/batmanrecruiter/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mikebatmancohen.pplx.app"><img src="https://img.shields.io/badge/Portfolio-View%20Work-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
