@@ -5,7 +5,7 @@
 ### Recruiter • Automation Builder • AI Workflow Nerd
 
 <p>
-  I build tools that make recruiting faster, cleaner, and more scalable — from AI candidate scoring to sourcing automation to Google Sheets workflows.
+  I build tools that make recruiting faster, cleaner, and more scalable — from AI candidate scoring to sourcing automation to GSheet workflows.
 </p>
 
 <p>
